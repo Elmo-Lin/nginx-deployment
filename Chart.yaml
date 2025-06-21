@@ -1,0 +1,7 @@
+apiVersion: v2
+name: nginx-deployer
+version: 0.1.0
+dependencies:
+  - name: my-nginx
+    version: 0.1.0
+    repository: oci://ghcr.io/<你的帳號>/charts

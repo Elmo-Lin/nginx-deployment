@@ -1,0 +1,4 @@
+my-nginx:
+  replicaCount: 2
+  image:
+    tag: "1.25"
