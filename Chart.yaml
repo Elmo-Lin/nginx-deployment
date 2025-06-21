@@ -4,4 +4,4 @@ version: 0.1.0
 dependencies:
   - name: my-nginx
     version: 0.1.0
-    repository: oci://ghcr.io/Elmo-Lin/charts
+    repository: oci://ghcr.io/elmo-lin/charts
