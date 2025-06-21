@@ -1,7 +1,7 @@
 apiVersion: v2
-name: nginx-deployer
+name: nginx-deployment
 version: 0.1.0
 dependencies:
   - name: my-nginx
     version: 0.1.0
-    repository: oci://ghcr.io/<你的帳號>/charts
+    repository: oci://ghcr.io/Elmo-Lin/charts
